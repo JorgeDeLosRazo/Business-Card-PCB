@@ -2198,6 +2198,10 @@
 		(color 0 0 0 0)
 		(uuid "f3148ffb-569c-4c26-b72d-b6b0881af1e9")
 	)
+	(no_connect
+		(at 39.37 78.74)
+		(uuid "ae1c162b-3558-4614-9640-4c19cffc6765")
+	)
 	(wire
 		(pts
 			(xy 135.89 81.28) (xy 135.89 87.63)
@@ -3147,7 +3151,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "BUSINESS_CARD:R_0221"
+		(property "Footprint" "BUSINESS_CARD:221_R_RESC1005X40N"
 			(at 112.776 51.054 90)
 			(effects
 				(font
@@ -3718,7 +3722,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BUSINESS_CARD:R_0221"
+		(property "Footprint" "BUSINESS_CARD:221_R_RESC1005X40N"
 			(at 143.764 19.304 90)
 			(effects
 				(font
@@ -3879,73 +3883,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V0")
-		(at 39.37 78.74 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "399c5b60-864b-4687-9a37-63bb6c8a4641")
-		(property "Reference" "#PWR013"
-			(at 35.56 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V0"
-			(at 43.18 78.7399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 39.37 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 39.37 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V0\""
-			(at 39.37 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "40d88287-db16-489b-9151-1d8affa3c440")
-		)
-		(instances
-			(project ""
-				(path "/81126baf-9999-480c-992f-3520723c9b7d"
-					(reference "#PWR013")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 143.51 35.56 90)
 		(unit 1)
@@ -3970,7 +3907,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BUSINESS_CARD:R_0221"
+		(property "Footprint" "BUSINESS_CARD:221_R_RESC1005X40N"
 			(at 143.764 34.544 90)
 			(effects
 				(font
@@ -4301,7 +4238,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BUSINESS_CARD:R_0221"
+		(property "Footprint" "BUSINESS_CARD:221_R_RESC1005X40N"
 			(at 181.864 83.566 90)
 			(effects
 				(font
@@ -4886,7 +4823,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BUSINESS_CARD:R_0221"
+		(property "Footprint" "BUSINESS_CARD:221_R_RESC1005X40N"
 			(at 143.764 26.924 90)
 			(effects
 				(font
