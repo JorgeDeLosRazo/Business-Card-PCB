@@ -4,12 +4,7 @@ to play a simple "Simon Says" style of game, where LEDs will display a pattern o
 
 
 ## Components
-- ATtiny85
-- 4 tactile buttons
-- Piezo buzzer
-- 3 Red LEDs
-- 1 Yellow LED
-- 1 Green LED
+
 | Component       | Qty. |
 |-----------------|------|
 | ATtiny85        | 1    | 
