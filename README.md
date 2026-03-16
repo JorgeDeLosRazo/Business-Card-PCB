@@ -4,7 +4,6 @@ to play a simple "Simon Says" style of game, where LEDs will display a pattern o
 
 ## KiCad
 ![](https://github.com/JorgeDeLosRazo/Business-Card-PCB/blob/main/Custom%20Graphics/kicad-pcb-sreenshot.png)
-![](https://github.com/JorgeDeLosRazo/Business-Card-PCB/blob/main/Custom%20Graphics/KiCad-Screenshot.png)
 
 ## Components
 
